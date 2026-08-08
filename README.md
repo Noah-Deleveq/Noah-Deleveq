@@ -8,6 +8,12 @@
 
 ## 📂 项目精选
 
+### 🎯 AI 刷题面试平台
+基于 DeepSeek 大模型的面试准备神器：AI 智能出题 / 即时判分 / 个性化学习路线 / 学习统计与错题本，还内置 **全流程 AI 面试官**——按岗位和简历生成面试题、逐题点评打分、回答太浅自动追问、支持语音回答，最后输出完整评估报告。全行业 100+ 预设主题，可搜索、可让 AI 现场生成新主题。
+🔗 [ai-quiz-master](https://github.com/Noah-Deleveq/ai-quiz-master)
+
+### 🤝 多 Agent 协作工作台
+
 ### 🤝 多 Agent 协作工作台
 多个 AI 角色像真实团队一样分工接力完成复杂任务（写文章 / 写代码 / 产品方案 / 翻译），支持自定义组队、历史记录、耗时统计与导出 Markdown。
 🔗 [ai-crew-collab](https://github.com/Noah-Deleveq/ai-crew-collab)
