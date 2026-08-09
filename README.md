@@ -8,6 +8,10 @@
 
 ## 📂 项目精选
 
+### 🛡️ HTML 闯关学院
+游戏化 HTML 学习平台：20 个关卡三赛段，三栏式编程工作台（知识点 + 编辑器 + 实时预览），输入即渲染、提交自动校验过关，连击与徽章激励。纯前端零依赖，双击即玩。
+🔗 [html-academy](https://github.com/Noah-Deleveq/html-academy)
+
 ### 🎯 AI 刷题面试平台
 基于 DeepSeek 大模型的面试准备神器：AI 智能出题 / 即时判分 / 个性化学习路线 / 学习统计与错题本，还内置 **全流程 AI 面试官**——按岗位和简历生成面试题、逐题点评打分、回答太浅自动追问、支持语音回答，最后输出完整评估报告。全行业 100+ 预设主题，可搜索、可让 AI 现场生成新主题。
 🔗 [ai-quiz-master](https://github.com/Noah-Deleveq/ai-quiz-master)
