@@ -21,6 +21,10 @@
 [ai-quiz-master](https://github.com/Noah-Deleveq/ai-quiz-master)
 
 
+### 灵感喷泉 —— AI 创意灵感工具
+基于 DeepSeek 的跨领域 AI 创意激发工具：输入一个模糊想法 30 秒生成 3 个可落地灵感方案（6 维度结构化）；无想法时由 AI 随机生成灵感关键词（盲盒式换词）；支持一键深挖（执行步骤 / 常见坑 / 冷启动）、收藏与历史。
+[ai-inspirator](https://github.com/Noah-Deleveq/ai-inspirator)
+
 ### 多 Agent 协作工作台
 多个 AI 角色像真实团队一样分工接力完成复杂任务（写文章 / 写代码 / 产品方案 / 翻译），支持自定义组队、历史记录、耗时统计与导出 Markdown。
 [ai-crew-collab](https://github.com/Noah-Deleveq/ai-crew-collab)
