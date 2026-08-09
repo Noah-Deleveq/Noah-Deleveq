@@ -8,6 +8,10 @@
 
 ## 项目精选
 
+### 个人主页
+使用自研 WebBuilder 可视化搭建器制作的个人主页：头像 / 项目展示卡片全部带跳转链接，部署于 GitHub Pages。
+[my-website](https://github.com/Noah-Deleveq/my-website) ｜ [在线访问](https://Noah-Deleveq.github.io/my-website/)
+
 ### HTML 闯关学院
 游戏化 HTML 学习平台：20 个关卡三赛段，三栏式编程工作台（知识点 + 编辑器 + 实时预览），输入即渲染、提交自动校验过关，连击与徽章激励。纯前端零依赖，双击即玩。
 [html-academy](https://github.com/Noah-Deleveq/html-academy)
@@ -28,5 +32,9 @@
 ### Mini Directus —— AI 数据管理平台
 元数据驱动的数据管理平台：可视化建表、自动生成 REST API、自然语言"建表 / 查询 / 总结"。
 [mini-directus](https://github.com/Noah-Deleveq/mini-directus)
+
+### WebBuilder 可视化页面搭建器
+拖拽式前端构建工具：10 种组件拖入画布、属性面板实时编辑、多页面 / 缩放 / 撤销重做 / 多选对齐，一键生成完整 HTML 代码。全部组件支持配置跳转链接。
+[visual-builder](https://github.com/Noah-Deleveq/visual-builder)
 
 ---
