@@ -2,7 +2,7 @@
 
 **AI 应用开发 · 独立游戏制作者 · 太原理工大学软件工程**
 
-![访客数](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet) *(实时访问计数，加载不出时可忽略)*
+![访客数](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet) 
 
 ---
 
