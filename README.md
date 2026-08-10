@@ -6,7 +6,7 @@
 
 ---
 
-![GitHub Contribution Snake](dist/github-snake-orange.svg)
+![GitHub Contribution Snake](dist/snake-grid.svg)
 
 ## Featured Projects
 
