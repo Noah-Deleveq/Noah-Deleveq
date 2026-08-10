@@ -6,7 +6,7 @@
 
 ---
 
-![GitHub Contribution Snake](github-snake-dark.svg)
+![GitHub Contribution Snake](dist/github-snake.svg)
 
 
 ## Tech Stack
