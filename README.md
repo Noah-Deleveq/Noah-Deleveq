@@ -6,6 +6,12 @@
 
 ---
 
+---
+
+![贪吃蛇](github-snake-dark.svg)
+
+> 贪吃蛇动画：每周自动更新，展示你的 GitHub 年度贡献（格子 = 每天的提交记录）。
+
 ## 技术栈
 
 `Python` `FastAPI` `DeepSeek API` `Vue / HTML / JS` `SQLite` `Git` `Linux / WSL` `Rust`
