@@ -6,7 +6,7 @@
 
 ---
 
-![GitHub Contribution Snake](dist/github-snake.svg)
+![GitHub Contribution Snake](dist/github-snake.svg?v=2)
 
 ## Featured Projects
 
