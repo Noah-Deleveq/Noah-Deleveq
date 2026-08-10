@@ -8,7 +8,6 @@
 
 ![GitHub Contribution Snake](github-snake-dark.svg)
 
-> Snake animation generated weekly from my GitHub contribution graph.
 
 ## Tech Stack
 
