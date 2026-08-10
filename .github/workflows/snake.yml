@@ -15,16 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate snake (animation + gif)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Noah-Deleveq
           outputs: |
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
       - name: Commit snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update snake animation"
-          file_pattern: "github-snake*.svg"
+          file_pattern: "github-snake*.svg ocean.gif"
