@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Noah
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=AI+Application+Developer;Python+%E2%8B%85+FastAPI+%E2%8B%85+DeepSeek+API;Building+AI-powered+web+apps;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=AI+Application+Developer;Software+Engineering+%40+TYUT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet)
 
