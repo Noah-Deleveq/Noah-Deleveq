@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Noah
 
-**AI Application Developer · Indie Game Developer · Software Engineering @ Taiyuan University of Technology**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet)
 
