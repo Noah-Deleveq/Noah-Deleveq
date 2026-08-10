@@ -2,7 +2,17 @@
 
 **AI 应用开发 · 独立游戏制作者 · 太原理工大学软件工程**
 
+![访客数](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet) *(实时访问计数，加载不出时可忽略)*
+
 ---
+
+## 📊 GitHub 动态统计
+
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=Noah-Deleveq&show_icons=true&theme=radical)
+
+![语言占比](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Deleveq&layout=compact&theme=radical)
+
+> 以上为动态图：每次打开按最新 GitHub 数据实时生成。若显示空白，请使用可访问外网的网络环境（开代理）查看。
 
 ## 技术栈
 
