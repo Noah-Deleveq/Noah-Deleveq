@@ -9,7 +9,8 @@
 
 ![GitHub Contribution Snake](dist/github-snake.svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noah-Deleveq&theme=github-light&area=true&hide_border=true)
+![Noah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noah-Deleveq&show_icons=true&count_private=true&hide_border=true)
+
 
 
 ## Tech Stack
