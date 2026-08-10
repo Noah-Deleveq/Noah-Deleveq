@@ -8,10 +8,6 @@
 
 ![GitHub Contribution Snake](dist/github-snake.svg)
 
-## Tech Stack
-
-`Python` `FastAPI` `DeepSeek API` `Vue / HTML / JS` `SQLite` `Git` `Linux / WSL` `Rust`
-
 ## Featured Projects
 
 | Project | Description | Link |
