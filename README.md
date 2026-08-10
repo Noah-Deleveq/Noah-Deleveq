@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Noah
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=AI+Application+Developer;Software+Engineering+%40+TYUT;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet)
@@ -8,10 +7,6 @@
 ---
 
 ![GitHub Contribution Snake](dist/github-snake.svg)
-
-![Noah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noah-Deleveq&show_icons=true&count_private=true&hide_border=true)
-
-
 
 ## Tech Stack
 
