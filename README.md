@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Noah
 
-**AI 应用开发 · 独立游戏制作者 · 太原理工大学软件工程**
-
 ![访客数](https://komarev.com/ghpvc/?username=Noah-Deleveq&color=blueviolet) 
 
 ---
@@ -10,11 +8,8 @@
 
 ![贪吃蛇](github-snake-dark.svg)
 
-> 贪吃蛇动画：每周自动更新，展示你的 GitHub 年度贡献（格子 = 每天的提交记录）。
 
-## 技术栈
 
-`Python` `FastAPI` `DeepSeek API` `Vue / HTML / JS` `SQLite` `Git` `Linux / WSL` `Rust`
 
 ## 项目精选
 
