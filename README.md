@@ -23,5 +23,4 @@
 
 ## Contact
 
-- GitHub: [Noah-Deleveq](https://github.com/Noah-Deleveq)
 - Games: [itch.io](https://noahdeleveq.itch.io/)
